@@ -1,9 +1,11 @@
 ## Hi there 👋
 <h2 align="center">Hola, soy Juan Legal 👋</h2>
-<h2 style="font-family: Arial; font-size: 16px;">🧑‍💻 Sobre mi</h2>
+<h2 style="font-family: Arial; font-size: 16px;">Sobre mi</h2>
 Estudiante en la Tecnicatura Universitaria en Programacion. Actualmente no respondo a ninguna empresa.
 
-- Interesado en desarrollarme como back-end developer, trabajando con bases de datos, APIs y lógica de negocio.
+
+Interesado en desarrollarme como back-end developer, trabajando con bases de datos y lógica de negocio.
+
 
 - ¿En qué me especializo? 🧐
   
@@ -20,7 +22,7 @@ Estudiante en la Tecnicatura Universitaria en Programacion. Actualmente no respo
 
 - 📬 Contactame vía mail: [juanmartinlegal@gmail.com](mailto:juanmartinlegal@gmail.com)
 
----
+
 
 ## 🛠️ Skills
 
