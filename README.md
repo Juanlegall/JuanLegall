@@ -3,18 +3,22 @@
 <h2 style="font-family: Arial; font-size: 16px;">🧑‍💻 Sobre mi</h2>
 Estudiante en la Tecnicatura Universitaria en Programacion. Actualmente no respondo a ninguna empresa.
 
+- Interesado en desarrollarme como back-end developer, trabajando con bases de datos, APIs y lógica de negocio.
 
- Interesado en desarrollarme como back-end developer, trabajando con bases de datos, APIs y lógica de negocio.
+- ¿En qué me especializo? 🧐
+  
+  ◦ Aplicaciones de escritorio y web sobre .NET Framework con C#.
 
-¿En qué me especializo? 🧐
-Aplicaciones de escritorio y web sobre .NET Framework con C#.
-Scripts con T-SQL sobre Microsoft SQL Server para utilizar bases de datos.
+  ◦ Aplicaciones de escritorio y web sobre Java.
+  
+  ◦ Scripts con T-SQL sobre Microsoft SQL Server para utilizar bases de datos.
 
-🤝 Me encanta trabajar en equipo!
 
-También... 🏃‍♂️ Hago ejercicio frecuentemente, ⚽ Juego fútbol, padel, tennis.
+- 🤝 Me encanta trabajar en equipo!
 
-📬 Contactame vía mail: [juanmartinlegal@gmail.com](mailto:juanmartinlegal@gmail.com)
+- También... 🏃‍♂️ Hago ejercicio frecuentemente, ⚽ Juego fútbol, padel, tennis.
+
+- 📬 Contactame vía mail: [juanmartinlegal@gmail.com](mailto:juanmartinlegal@gmail.com)
 
 ---
 
@@ -29,7 +33,7 @@ También... 🏃‍♂️ Hago ejercicio frecuentemente, ⚽ Juego fútbol, pade
 ![C#](https://img.shields.io/badge/c%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ---
 
 ### 🌐 Encontrame también por acá
